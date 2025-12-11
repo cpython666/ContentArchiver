@@ -1,0 +1,287 @@
+hello大家好
+今天我们要做全球第一个开箱
+关于这个Ledger recovery key
+那这个产品呢
+虽然说它看起来呢是非常非常小
+那如果你把它拿出来的话呢
+它就是很小很小很轻很轻的一张
+像是纸吗
+或者是一个卡片上的感觉哦
+但这个产品呢
+我认为是Ledger最近几年推出
+最有吸引力的一个产品
+为什么这样讲呢
+就是我相信
+这个有在使用冷钱包的观众朋友啊
+应该都会有一个这个感想吧
+据说
+这个我记这个24个助记词的时候呢
+是不是都写在一张纸上
+那如果这张纸弄丢了或者是被偷走了
+那是不是代表著
+你的这个放在冷钱包里面
+加密货币资产全部都会被盗走呢
+所以往往都是会担心嘛
+哪怕你把这个冷钱包的
+这个助记词的那张纸
+藏在一个非常非常隐秘的地方
+或者藏在这个
+我们就说银行的保险柜里面好了
+但是如果银行保险柜被偷的话
+那怎么办呢
+那今天呢
+这个产品就完整的解决这个问题哦
+那今天这个卡是什么东西呢
+它只是用于Ledger Flex跟Ledger Stax
+所以今天如果你使用的是Nano x
+或者Nano s plus的话呢
+是没有办法使用这个Ledger recovery key的
+原因就在于呢
+它是用一个这个NFC的技术啊
+所以今天如果你使用Ledger Flex
+或者Ledger Stax的话呢
+只要轻轻的扫这张卡片
+那他就可以把你所有的助记词呢
+都备份在这张卡片上面
+那同时呢你还可以设下个密
+码所以哪怕你这张卡片弄丢了
+或者是别人偷走了
+他也没办法access你的资产
+跟这个传统的这个24个助记词
+写在纸上是不一样的
+因为如果你把这个助记词的这个字呢
+弄丢了然后人家偷到了或怎么样
+他只要把这个助记打进去
+他就可以access你钱包里面的所有资产
+但是如果你今天掉的是这张卡片的话
+是没有关系的
+因为它上面还有多一层密码
+所以就算人家偷到这张卡片
+他也没办法这个access你的钱包
+所以这也是这个产品
+非常非常吸引人的地方
+那接下来我就带大家看一下
+这个我们要怎么使用这个产品
+因为我也是第一次
+所以我们就一起开始学习吧
+OK那我们刚刚呢
+是已经把这个Ledger Flex重新
+这个reset
+就变成说
+它是设定一个新钱包的感觉
+那你一开始呢
+也是要把这个24个助记词呢
+是都自己先写下来
+或者是备份起来
+那下一步呢就会看到这个
+这个就是next
+you can create another backup using a Ledger recovery key
+recovery key呢就是这个东西
+所以我们按tap
+然后下一步
+下一步它就问你说
+do you have a Ledger recovery key
+就是你现在有这个东西在手上吗
+然后你当然就是选说有
+然后呢
+use your Ledger recovery key to create another backup
+it's pin protected
+fast and durable
+据说啊用这个东西backup的话呢
+那它是这个非常快
+然后又是非常安全的
+然后同时有密码保护
+按下一步
+下一步之后呢
+它就告诉你说为什么要选这个东西
+然后当这时候呢
+我们只要把这个摆在后面
+然好放在这边
+短短的几秒钟
+它就完成了backup了
+大家可以看到是非常非常快的
+然后我们就按start setup
+就是开始设定
+to prevent unauthorized access Ledger recovery key
+use PIN protection
+就是要设一个密码
+然后这个密码呢
+是可以是4-8位数的数字哦
+那我们就在这边随便设一个密码
+然后开始
+那我们就用1234 好
+就这样吧
+就设一个简单的密码OK
+然后再按一次1234
+确认密码
+然后create a backup on your Ledger recovery key OK
+然后按OK to create back the key okay
+要摆在后面
+像这样子哦
+然后他就会开始进行这个backup
+哦非常快
+其实大概花了可能8到10秒的时间
+然后现在就已经完成啦
+然后我们看一下现在的
+呃当然
+你还是要把你自己
+24个助记词给保护好了
+那这个东西呢
+就只是当一个backup
+然后我们要把它取一个名字
+我们就取成呃recovery key
+recovery oh what fat finger recovery
+key
+okay
+确定然后要确定你的密码
+所以是1234
+okay这样就完成啦
+那我们接下来要进行下一步
+就是要开另外一个钱包
+就像是另一个新的钱包
+然后要透过Ledger recovery key
+来这个进行backup
+就是通过另一个新钱包
+然后直接连
+然后看是怎么样一个操作
+OK那这是一台新的Ledger Flex
+那刚刚呢
+我是已经把它开机
+然后进行了前面的一些步骤
+基本上你就要选择说
+你要不要透过手机的Ledger live
+去进行更新啊
+或者是电脑的Ledger live去进行更新啊
+那当然你一定要更新之后
+才可以透过Ledger recovery key
+来找回你的这个原本的钱包
+因为这个leather recovery key是新的产品嘛
+所以如果今天你是旧的Stax
+或者是旧的Flex
+然后你没有透过Ledger live
+更新你的映体的话呢
+它是不会有接下来
+这个Ledger recovery key的选择哦
+那这台当然是我已经更新过了
+所以我们在这边就可以看到
+他要选择两个
+第一个是把它设成一个新的钱包
+那第二个呢
+就是restore access to asset
+就是假如说你今天有助记词啊
+你之前有其他钱包啊
+就选择第二个
+那我们就选择第二个
+选择第二个之后呢
+就会看到第二个选项呢
+是透过Ledger recovery key去进行这个backup
+那我们就选这个
+然后to restore you need to recover key
+然后需要密码对吧
+然后我们就按next
+然后了解
+然后就是下一步
+那我们就把它摆在后面
+哇
+这个连接速度也真的是非常非常快哦
+大概2秒的时间吧
+然后现在按start restore
+那当然我们刚刚的密码呃
+我相信大家还记得是1234
+然后OK然后要摆在后面
+刚刚备份是花了8-10秒钟
+那这次这个用一个新的钱包
+连接这个旧的钱包
+不知道需要多久哎
+大概也是8-10秒
+钟这样就好了吗
+就这样结束了
+所以大家可以看到
+这个速度是比以前快多少
+因为以前如果是用你传统的这种呃
+24个呃助记词用手写
+然后你要一个一个
+把这个c phrase打进去的话呢
+是非常非常花时间的
+那你再熟悉这个过程
+大概也是需要至少3到5分钟的时间
+刚刚大家可以看到
+透过Luxury coffee key需要的时间呢
+大概就只是8到10秒钟
+而且本身这个东西呢又是有加密的
+是非常非常安全的
+跟平常传统的这种24个助记词被偷走
+人家就可以直接access你的钱包呢
+是完全不同的secure level
+所以这也是我第一次使用啦
+那刚刚呃已经展现给大家看
+是如何去back up
+然后要怎么样透过这个东西
+然后重新再连回自己的钱包啊
+整个过程当中呢是我第一次体验啊
+那我只能说真的是非常非常的丝滑啊
+希望今天的这个介绍呢
+大家也都对大家都会有帮助哦
+OK那我相信大家这个最想知道的东西
+就是Ledger recovery key
+这个东西到底要多少钱
+那现在公布答案哦
+在未来就是从今天开始之后呢
+如果你购买Ledger Flex跟Ledger Stax的话呢
+它是会送你Ledger recovery key的哦
+所以是完全免费的产品
+那我相信听到这边
+一定有观众会觉得说啊
+我应该要晚一点再买我的Flex
+或者是晚点再买我的Stax的
+但是呃如果你在今天之前
+就已经买了Stax跟Flex
+也完全没有关系哦
+因为在8月31号8月底之前呢
+你只要去Ledger网站
+你都可以免费取得一个Ledger recovery key
+就说如果你曾经有购买过Flex
+或者是Stax的这些客户呢
+不用担心
+在8月底之前
+你只要付一个运费
+你就可以得到你免费的Ledger recovery key
+那我相信还会有另一群朋友会觉得说
+诶Derrick啊
+那我想要购买更多的Ledger Recover Keys
+当一个backup
+当一个备份
+像我自己我就想购买可能3-5个当备份
+要怎么办呢
+那Ledger是有分开卖这个产品
+一个是39块9毛9美金
+那如果你要
+然后购买3个family pack的话呢
+也会有额外的折扣
+那如果任何关于Ledger的产品
+不管是Stax
+不管是Flex
+或者是新的这个Ledger recovery key
+都可以透过我下面的链接去购买
+那透过我们链接购买的话呢
+就可以请我喝一杯奶茶
+OK那今天这个分享就到这边为止啦
+那这个也是全球第一个公开
+这个ledger recovery key的产品
+分享影片
+希望大家会喜欢
+如果喜欢的话在下面订阅分享
+开启小当当
+那我们下次见啦拜拜
+Saint corn is the kings the crypto that's bold
+riding the wave making fortunes untold
+but it's time to retire to a new creep to shore
+cut down a radiate let's dive in for sure
+dull with cost average in the strategy we choose
+investing smartly we can't afford to lose
+cold storage is the way keeping as it's safe
+locking up our coins in this crypto chase
+so remember my friend about games
+mindset is crucial to conquer all pain
+stay strong and focus through markets darkest night
+believe in your dreams and let your success take flight
