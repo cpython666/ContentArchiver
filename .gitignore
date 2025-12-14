@@ -1,2 +1,7 @@
 *.json
+*.py
+*.js
+
+user_data/
+demo/
 
